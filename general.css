@@ -1,0 +1,31 @@
+.btn {
+  border-radius: 9px;
+}
+
+.btn:link,
+.btn:visited {
+  text-decoration: none;
+}
+
+.background {
+  width: 100%;
+  background-color: #fdf2e9;
+}
+
+.background-no-width {
+  background-color: #fdf2e9;
+}
+
+.container {
+  max-width: 130rem;
+  margin: 0 auto;
+}
+
+.background-orange {
+  background-color: #e98b37;
+}
+
+.line {
+  height: 0.01rem;
+  background-color: #eee;
+}
